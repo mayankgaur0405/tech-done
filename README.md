@@ -29,5 +29,14 @@ codeigniter 3
 <img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/cf9b66da-d925-4155-bb4c-6d07641322cc" />
 
 
+<hr>
+
+system design
+
+
+<img width="1896" height="439" alt="image" src="https://github.com/user-attachments/assets/08240033-de6a-4932-bc5b-a985d07af64b" />
+
+
+
 
 
