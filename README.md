@@ -3,6 +3,11 @@ on 26-06-26 i can say i can code html, css, php and ci3(basic) on myself
 next(genai , js , react , node express and mongodb, flutter , aiml)
 </pre>
 
+laravel
+
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/9afd3797-8f0b-411b-a0b6-a105d17a4f14" />
+
+
 css 
 
 <img width="1331" height="971" alt="image" src="https://github.com/user-attachments/assets/d8c059a5-a8ec-4db0-8e48-5882d3b5e5f2" />
