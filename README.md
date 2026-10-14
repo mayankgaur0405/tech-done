@@ -1,3 +1,7 @@
+📱Currently learning mobile app development through the Chai aur Code React Native course, exploring React Native and Expo to build cross-platform Android and iOS applications.
+
+
+
 <pre>
 on 26-06-26 i can say i can code html, css, php and ci3(basic) on myself 
 next(genai , js , react , node express and mongodb, flutter , aiml)
